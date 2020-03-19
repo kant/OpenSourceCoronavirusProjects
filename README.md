@@ -5,14 +5,27 @@ TREAT EVERYTHING DOCUMENTED AND DESIGNED IN THIS DIRECTORY AND OTHERS AS POTENTI
 DEVICES AND TECHNIQUES DOCUMENTED, RESEARCHED AND LINKED HERE CAN POTENTIALLY HURT AND KILL YOU, OR THEY CAN FAIL TO WORK EXPOSING YOU OR OTHERS TO INFECTION TO COVID-19 OR OTHER RELATED, OR UNRELATED ILLNESSES. 
 NOTHING LISTED HERE IS FDA TESTED
 THIS INFORMATION IS PROVIDED SOLELY FOR THE COLLABORATION OF THE WORLD'S COMMUNITY TO FIGHT THE GREATER EFFECTS OF THE CORONAVIRUS PANDEMIC
+DO NOT MAKE AND DISTRIBUTE EQUIPMENT IF YOU ARE ILL
 ***********************************************************************************************************************************************************************
 
 Isn't COVID-19 just like the flu?
 No, it's not.
+https://www.vox.com/science-and-health/2020/3/13/21176735/covid-19-coronavirus-worse-than-flu-comparison
+
+Symptoms:
+WHO
+CDC
+https://www.cdc.gov/coronavirus/2019-ncov/symptoms-testing/symptoms.html
+
+Who is most at risk:
+Immune compromised people, auto-immune, HIV
+https://www.cdc.gov/coronavirus/2019-ncov/specific-groups/high-risk-complications.html
 
 
+"Avoid close contact with anyone showing symptoms of respiratory illness such as coughing and sneezing."
 
-Why are we making opensource medical equipment?
+
+Why are we making dangerous untested opensource medical equipment?
 Because the rate of infection is so high, there's projections millions more will catch the virus, and the amount of cases will overwhelm the healthcare system to the point where some cases will go untreated which can lead to higher rates of mortality. There's already been a US shortage of N95 masks for the last week, the US is just now seeing outbreaks of cases and if hospital staff do not have supplies like masks to protect themselves then they too can be incapacitated by the virus, leading to higher mortality.
 
 
@@ -20,6 +33,8 @@ Because the rate of infection is so high, there's projections millions more will
 https://www.technologyreview.com/s/615375/what-is-herd-immunity-and-can-it-stop-the-coronavirus/?fbclid=IwAR3LRLNSKCavqpa6UXkoTFhGyqImoom_YE9jLRzb_qNSUMuBc_8eRLL_XP0
 
 Inspiration:
+https://www.who.int/news-room/detail/03-03-2020-shortage-of-personal-protective-equipment-endangering-health-workers-worldwide
+
 https://hackaday.com/2020/03/12/ultimate-medical-hackathon-how-fast-can-we-design-and-deploy-an-open-source-ventilator/?fbclid=IwAR2rnSc4Yhfd2iLCZSQ0erHf8-PLsuuL3I0NMZvJagOX9FEcs_jMts-FzME
 
 https://app.jogl.io/project/121?fbclid=IwAR2LzTAlirPDtjg1XDkTOVjQnHhLvI_BoxQMF2MtK6MTWD3bbK-AwrJoKeU
@@ -46,10 +61,21 @@ https://gisanddata.maps.arcgis.com/apps/opsdashboard/index.html#/bda7594740fd402
 
 AI/FLIR: detect people at airports, etc. with fevers from a distance
 
-AI/CT: researchers were able to use CT scans and AI to diagnose COVID-19 cases
 
+https://www.instructables.com/id/Coronavirus-Detector/
+
+AI/CT: researchers were able to use CT scans and AI to diagnose COVID-19 cases
+https://github.com/ieee8023/covid-chestxray-dataset
 
 ************************************************************************************************************
+
+OpenSource Business
+-------------------
+Close all non-essential businesses, have reduced staff for others
+close all dine-in restaraunts
+Have a senior hour at the beginning of the day for seniors 50+ store is disinfected in the morning, seniors are most vulnerable
+Practice social distancing
+No gatherings of 25 or more people
 
 OpenSource Chemistry
 ---------------------
@@ -74,17 +100,43 @@ Stainless Steel?
 UN-SAFE MATERIALS:
 PVC?
 
+Tools
+--------------------
+
+Medical Supplies
+--------------------
+Shoe Coverings
+
+Hair Coverings
+
+Automatic hand sanitizer:
+
+
+Hand wash time counter:
+https://github.com/dhennessy/WashTimer?fbclid=IwAR0Z4ND8qRzGTydr3_-ryBOaeOMHKE8iY_rIu_-jVy26HtyZTQB06CxrPRw
+
+Sugar cane to hand sanitizer:
+https://wikifactory.com/@thanhmeye/ethanol-still
 
 
 Personal Protective Equipment (PPE)
---------------------
-N95 substitutes:
+N95 masks offer the best protection, but they are in short supply, surgical masks can be used, but do not offer the same protection as a N95 mask
 
-Surgical mask substitutes:
+N95 substitutes:
+https://www.thingiverse.com/thing:4225667/files
+
+https://copper3d.com/hackthepandemic/?fbclid=IwAR1gnqxasbEzZVa5GC-0YnysDlaGbxUEZxlByvkS_3IKbWk502HphmtOS4E
+
+https://www.thingiverse.com/thing:3454725
+
+https://www.thingiverse.com/thing:4141338
+
 
 N95 Recycling:
 Supposedly you can wash them with bleach in water up to 40 times to renew them, this is untested and unverified
 
+Surgical mask substitutes:
+https://blog.prusaprinters.org/from-design-to-mass-3d-printing-of-medical-shields-in-three-days/?fbclid=IwAR3JjeNFBb2eDnnQyCt9Wr88sfccejYkUujYxLXpEsy4YlqdmiwmIeTHgc8
 
 Respirators/Lifesupport:
 https://gitlab.com/TrevorSmale/OSV-OpenLung
