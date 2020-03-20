@@ -29,11 +29,10 @@ Cardboard for 24 hours
 
 Stainless steel for 72 hours
 
-./plastics-sterilization-compatibility-chart-from-is-med-specialties.pdf
+./plasticssterilization-compatibility-chart-from-is-med-specialties.pdf
 
 
 # Symptoms:
----------------
 https://www.coronavirus.gov/
 
 NIH:
@@ -60,7 +59,6 @@ Because the rate of infection is so high, there's projections millions more will
 https://www.technologyreview.com/s/615375/what-is-herd-immunity-and-can-it-stop-the-coronavirus/?fbclid=IwAR3LRLNSKCavqpa6UXkoTFhGyqImoom_YE9jLRzb_qNSUMuBc_8eRLL_XP0
 
 # Inspiration:
----------------------
 https://www.who.int/news-room/detail/03-03-2020-shortage-of-personal-protective-equipment-endangering-health-workers-worldwide
 
 https://hackaday.com/2020/03/12/ultimate-medical-hackathon-how-fast-can-we-design-and-deploy-an-open-source-ventilator/?fbclid=IwAR2rnSc4Yhfd2iLCZSQ0erHf8-PLsuuL3I0NMZvJagOX9FEcs_jMts-FzME
@@ -71,13 +69,12 @@ https://app.jogl.io/project/121?fbclid=IwAR2LzTAlirPDtjg1XDkTOVjQnHhLvI_BoxQMF2M
 
 
 # Workflow
-----------
+
 Research/proposal -> Design -> Print/Assemble -> Test -> Review with medical experts -> use 
 
 Discussion -> CAD -> 3D printer -> Equipment Evaluator -> Medical expert -> Patient
 
 # Challenges/Funding:
--------------------
 https://twitter.com/CoVentChallenge
 
 # Directory
@@ -90,7 +87,6 @@ https://healthweather.us/
 https://www.nytimes.com/2020/03/18/health/coronavirus-fever-thermometers.html
 
 # OpenSource Software:
------------------------
 John Hopkins Coronavirus COVID-19 tracker:
 https://gisanddata.maps.arcgis.com/apps/opsdashboard/index.html#/bda7594740fd40299423467b48e9ecf6
 
@@ -110,7 +106,6 @@ https://www.kaggle.com/allen-institute-for-ai/CORD-19-research-challenge?fbclid=
 ************************************************************************************************************
 
 # OpenSource Business
--------------------
 Close all non-essential businesses, have reduced staff for others
 close all dine-in restaraunts
 Have a senior hour at the beginning of the day for seniors 50+ store is disinfected in the morning, seniors are most vulnerable
@@ -118,7 +113,6 @@ Practice social distancing
 No gatherings of 25 or more people
 
 # OpenSource Chemistry
----------------------
 "Combine in a bowl:
 ⅔-cup rubbing alcohol (99% isopropyl alcohol)
 ⅓-cup aloe vera gel.
@@ -128,7 +122,7 @@ Source: https://www.foxnews.com/health/coronavirus-panic-buying-diy-hand-sanitiz
 ************************************************************************************************************
 
 # OpenSource Hardware
---------------------
+
 SAFE MATERIALS:
 Copper3D antibacterial PLA?
 PLA?
@@ -144,7 +138,7 @@ see the file "plastics sterilization compatibility":
 http://www.industrialspec.com/images/files/plastics-sterilization-compatibility-chart-from-is-med-specialties.pdf?fbclid=IwAR3Can9EYXjL-_oMnYxT7KGrIeQodONga45pCxxuXz3qbUVUsg0O-tZICeU
 
 # Tools
---------------------
+
 Fusion 360 Mechanical CAD for part design:
 https://www.autodesk.com/campaigns/fusion-360-for-hobbyists
 
@@ -154,7 +148,7 @@ http://Grabcad.com
 
 
 # Gadgets
-----------------------
+
 Doorbell fever detector:
 https://create.arduino.cc/projecthub/roni-bandini/coronavirus-doorbell-114b3f?ref=platform&ref_id=424_trending___&offset=3
 
@@ -177,7 +171,7 @@ https://www.forbes.com/sites/bernardmarr/2020/03/18/how-robots-and-drones-are-he
 
 
 # Medical Supplies
---------------------
+
 Surgical masks
 
 Protective glasses/goggles 
@@ -266,7 +260,6 @@ PEEP valve
 https://youtu.be/HEfCRcew_pk
 
 # Testing
--------------
 Several different independent people should test the latest version of an individual design before bringing a prototype to a medical expert to review it
 If a medical expert says it provides utility then it should be reviewed by a legal expert and an engineer
 then beyond that if a design satisfies all the above then people could potentially mass produce the solution using 3D printers or whatever else
@@ -278,7 +271,6 @@ https://www.xamax.co.uk/blog/how-to-respirator-face-fit-test-guide.html
 http://www.frankshospitalworkshop.com/
 
 # Communication
--------------
 What good are open source designs when all the results and development are hidden behind logins in private groups? 
 
 Google docs list of groups:
@@ -301,7 +293,6 @@ https://ppelink.wordpress.com/
 use hashtags like #COVID19 or #Coronavirus when you publish designs, use descriptive keywords so other developers can find your designs.
 
 # NEEDS:
--------------
 3D print operators
 Scientists
 Engineers
@@ -312,7 +303,7 @@ Project Managers
 Hospital Contacts/Doctors
 
 Manufacturing:
------------------
+-------------------
 https://ideea.io/3ps/covid-19
 
 3dhubs
@@ -321,7 +312,6 @@ Prusa
 
 
 # Potential Designs, research directions:
--------------------------
 Ultraviolet mask - supposedly a bad idea because UV lights create ozone which is bad for lungs
 
 AC airfilter backpack
