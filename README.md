@@ -143,9 +143,21 @@ https://www.forbes.com/sites/bernardmarr/2020/03/18/how-robots-and-drones-are-he
 
 Medical Supplies
 --------------------
-Shoe Coverings
+N95 respirators
 
-Hair Coverings
+Surgical masks
+
+Protective glasses/goggles 
+
+Nitrile gloves
+
+Head covers
+
+Face shields
+
+Disinfectant wipes
+
+Shoe Coverings
 
 Personal Protective Equipment (PPE)
 N95 masks offer the best protection, but they are in short supply, surgical masks can be used, but do not offer the same protection as a N95 mask
@@ -206,14 +218,22 @@ Communication
 -------------
 What good are open source designs when all the results and development are hidden behind logins in private groups? 
 
+Google docs list of groups:
+https://docs.google.com/spreadsheets/d/1PmVIADK94Hmug3wRQXi-K94UrXYsZtSFXpRGwCENoaM/edit?fbclid=IwAR0cAZgM4mYpp7jijLJ-ayIf2o3HSjc7-z7_kpo4R90JpGTrsS18ZIqYGjY#gid=0
+
 N95 Requests:
 https://docs.google.com/forms/d/e/1FAIpQLSfuuLpPZQwWX91U3x55wVWdNrfk-zaKPXdBsI0PITeI7BYkXA/viewform
 
 Slack channel
 https://www.helpfulengineering.org/
 
+Open Air
+https://projectopenair.nl/het-project/
+
 Facebook is NOT ideal
 https://www.facebook.com/groups/opensourcecovid19medicalsupplies/
+
+https://ppelink.wordpress.com/
 
 use hashtags like #COVID19 or #Coronavirus when you publish designs, use descriptive keywords so other developers can find your designs.
 
