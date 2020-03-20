@@ -69,6 +69,8 @@ https://app.jogl.io/project/121?fbclid=IwAR2LzTAlirPDtjg1XDkTOVjQnHhLvI_BoxQMF2M
 
 https://docs.google.com/document/d/16ueR28p-oZb_uPKXFzuxK-X62rgYXlGETNOLitoSf6s/edit
 
+https://www.livescience.com/open-source-medical-supplies-coronavirus.html
+
 # Workflow
 
 Research/proposal -> Design -> Print/Assemble -> Test -> Review with medical experts -> use 
@@ -142,6 +144,12 @@ http://www.industrialspec.com/images/files/plastics-sterilization-compatibility-
 Fusion 360 Mechanical CAD for part design:
 https://www.autodesk.com/campaigns/fusion-360-for-hobbyists
 
+Basic 3D printer:
+https://www.amazon.com/Monoprice-MP10-Printer-Removable-Accessible/dp/B07MK5W8M7
+
+Basic Microscope:
+
+
 http://Thingiverse.com
 
 http://Grabcad.com
@@ -169,6 +177,9 @@ https://wikifactory.com/@thanhmeye/ethanol-still
 Using drones and robots:
 https://www.forbes.com/sites/bernardmarr/2020/03/18/how-robots-and-drones-are-helping-to-fight-coronavirus/?fbclid=IwAR2EiG3tZ0xVF6VysOo3WdBnVb3Rici8-UHI7PuF3NDLWWaAG_0tdbIF2YQ#9f86e482a12e
 
+
+Door grabber
+https://www.thingiverse.com/thing:4192643
 
 # Medical Supplies
 
@@ -290,6 +301,16 @@ https://www.facebook.com/groups/opensourcecovid19medicalsupplies/
 
 https://ppelink.wordpress.com/
 
+https://www.canada.ca/en/services/business/maintaingrowimprovebusiness/manufacturers-needed.html
+
+https://www.coronavirusmakers.org/index.php/es/
+
+HP
+https://enable.hp.com/us-en-3dprint-COVID-19-containment-applications
+
+Formlabs
+https://docs.google.com/forms/d/e/1FAIpQLSe015Ylohgm7hE5lRsekdK01_OqElYeSAzqyHx7HbOmrJ_MjQ/viewform
+
 use hashtags like #COVID19 or #Coronavirus when you publish designs, use descriptive keywords so other developers can find your designs.
 
 # NEEDS:
@@ -309,6 +330,9 @@ https://ideea.io/3ps/covid-19
 3dhubs
 
 Prusa
+
+Markforged
+https://markforged.com/materials/copper/
 
 
 # Potential Designs, research directions:
