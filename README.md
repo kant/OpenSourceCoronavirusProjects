@@ -44,7 +44,7 @@ https://www.projectopenair.org/
 Workflow
 ----------
 Research/proposal -> Design -> Print/Assemble -> Test -> Review with medical experts -> use 
-
+Discussion -> CAD -> 3D printer -> Equipment Evaluator -> Medical expert -> Patient
 
 
 Directory
@@ -61,6 +61,7 @@ https://gisanddata.maps.arcgis.com/apps/opsdashboard/index.html#/bda7594740fd402
 
 AI/FLIR: detect people at airports, etc. with fevers from a distance
 
+https://create.arduino.cc/projecthub/dasdata/corofence-thermal-detector-f4436f?ref=platform&ref_id=424_trending___&offset=0
 
 https://www.instructables.com/id/Coronavirus-Detector/
 
@@ -109,7 +110,15 @@ Shoe Coverings
 
 Hair Coverings
 
+Doorbell fever detector:
+https://create.arduino.cc/projecthub/roni-bandini/coronavirus-doorbell-114b3f?ref=platform&ref_id=424_trending___&offset=3
+
 Automatic hand sanitizer:
+https://www.youtube.com/watch?v=_LcTiuzIFc8
+
+https://www.youtube.com/watch?v=qulcfxe_04Q
+
+https://www.youtube.com/watch?v=BoJ3QUGUA6w
 
 
 Hand wash time counter:
@@ -131,6 +140,7 @@ https://www.thingiverse.com/thing:3454725
 
 https://www.thingiverse.com/thing:4141338
 
+https://blog.arduino.cc/2020/03/17/designing-a-low-cost-open-source-ventilator-with-arduino/
 
 N95 Recycling:
 Supposedly you can wash them with bleach in water up to 40 times to renew them, this is untested and unverified
@@ -145,10 +155,13 @@ https://www.instructables.com/id/The-Pandemic-Ventilator/
 
 https://www.fastcompany.com/1661942/mit-students-invent-100-ventilator-for-disaster-zones?fbclid=IwAR2Y00hFcDgn3L1udEF00m7eqgDnoA5qirNnic6W7fWetabtRWwc27ksiqM
 
+https://youtu.be/pvrUQCMa3a8
+
 Valves
 
 https://grabcad.com/library/respirator-free-reanimation-venturi-s-valve-1?fbclid=IwAR2h0uKEybU8_LlZ94WJ8x5zA0eg-nmDrMF1BN-I4FtzsEpfqOmk593XZOk
 
+https://www.youtube.com/watch?v=HEfCRcew_pk&feature=youtu.be&fbclid=IwAR0Y8gQBBeIeTXUr2PcD6JAqdUCU69S0xeYH_uizPoYGsEsgluEeQKBdovw
 
 Testing
 -------------
@@ -159,10 +172,18 @@ then beyond that if a design satisfies all the above then people could potential
 
 Communication
 -------------
+What good are open source designs when all the results and development are hidden behind logins in private groups? 
 
+Slack channel
+https://www.helpfulengineering.org/
 
+Facebook is NOT ideal
+https://www.facebook.com/groups/opensourcecovid19medicalsupplies/
+
+use hashtags like #COVID19 or #Coronavirus when you publish designs, use descriptive keywords so other developers can find your designs.
 
 NEEDS:
+-------------
 3D print operators
 Scientists
 Engineers
@@ -172,11 +193,18 @@ Medical Advisors
 Project Managers
 Hospital Contacts/Doctors
 
+Manufacturing:
+-----------------
+https://ideea.io/3ps/covid-19
 
+3dhubs
 
+Prusa
 
 
 Potential Designs, research directions:
-Ultraviolet mask
+-------------------------
+Ultraviolet mask - supposedly a bad idea because UV lights create ozone which is bad for lungs
+
 AC airfilter backpack
 
