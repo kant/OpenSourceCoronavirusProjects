@@ -67,6 +67,7 @@ https://www.nbcboston.com/news/coronavirus/mgh-desperately-needs-supplies-presid
 
 https://app.jogl.io/project/121?fbclid=IwAR2LzTAlirPDtjg1XDkTOVjQnHhLvI_BoxQMF2MtK6MTWD3bbK-AwrJoKeU
 
+https://docs.google.com/document/d/16ueR28p-oZb_uPKXFzuxK-X62rgYXlGETNOLitoSf6s/edit
 
 # Workflow
 
@@ -78,7 +79,6 @@ Discussion -> CAD -> 3D printer -> Equipment Evaluator -> Medical expert -> Pati
 https://twitter.com/CoVentChallenge
 
 # Directory
-********************************************
 Keep this list to the best example for each category
 
 Tracking Data, forecasting:
