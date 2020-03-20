@@ -1,6 +1,7 @@
 # OpenSourceCoronavirusProjects
 This is a directory and tech tree of collected open source research and technologies aimed at preventing the coronavirus COVID-19 pandemic 
 ***********************************************************************************************************************************************************************
+Disclaimers, Warning, and release of liability:
 TREAT EVERYTHING DOCUMENTED AND DESIGNED IN THIS DIRECTORY AND OTHERS AS POTENTIALLY HAZARDOUS, UNTESTED, AND WITHOUT ANY WARRANTY IT WILL WORK FOR THE DESIRED PURPOSE, OR SAFELY
 
 DEVICES AND TECHNIQUES DOCUMENTED, RESEARCHED AND LINKED HERE CAN POTENTIALLY HURT AND KILL YOU, OR THEY CAN FAIL TO WORK EXPOSING YOU OR OTHERS TO INFECTION TO COVID-19 OR OTHER RELATED, OR UNRELATED ILLNESSES. 
@@ -19,12 +20,20 @@ No, it's not.
 https://www.vox.com/science-and-health/2020/3/13/21176735/covid-19-coronavirus-worse-than-flu-comparison
 
 There are at least two known strains of it.
+
 Aerosol for 3 hours
+
 Copper for 4 hours
+
 Cardboard for 24 hours
+
 Stainless steel for 72 hours
 
-Symptoms:
+./plastics-sterilization-compatibility-chart-from-is-med-specialties.pdf
+
+
+# Symptoms:
+---------------
 https://www.coronavirus.gov/
 
 NIH:
@@ -50,7 +59,8 @@ Because the rate of infection is so high, there's projections millions more will
 
 https://www.technologyreview.com/s/615375/what-is-herd-immunity-and-can-it-stop-the-coronavirus/?fbclid=IwAR3LRLNSKCavqpa6UXkoTFhGyqImoom_YE9jLRzb_qNSUMuBc_8eRLL_XP0
 
-Inspiration:
+# Inspiration:
+---------------------
 https://www.who.int/news-room/detail/03-03-2020-shortage-of-personal-protective-equipment-endangering-health-workers-worldwide
 
 https://hackaday.com/2020/03/12/ultimate-medical-hackathon-how-fast-can-we-design-and-deploy-an-open-source-ventilator/?fbclid=IwAR2rnSc4Yhfd2iLCZSQ0erHf8-PLsuuL3I0NMZvJagOX9FEcs_jMts-FzME
@@ -60,18 +70,18 @@ https://www.nbcboston.com/news/coronavirus/mgh-desperately-needs-supplies-presid
 https://app.jogl.io/project/121?fbclid=IwAR2LzTAlirPDtjg1XDkTOVjQnHhLvI_BoxQMF2MtK6MTWD3bbK-AwrJoKeU
 
 
-Workflow
+# Workflow
 ----------
 Research/proposal -> Design -> Print/Assemble -> Test -> Review with medical experts -> use 
 
 Discussion -> CAD -> 3D printer -> Equipment Evaluator -> Medical expert -> Patient
 
-Challenges/Funding:
+# Challenges/Funding:
 -------------------
 https://twitter.com/CoVentChallenge
 
-Directory
-------------
+# Directory
+********************************************
 Keep this list to the best example for each category
 
 Tracking Data, forecasting:
@@ -79,7 +89,7 @@ https://healthweather.us/
 
 https://www.nytimes.com/2020/03/18/health/coronavirus-fever-thermometers.html
 
-OpenSource Software:
+# OpenSource Software:
 -----------------------
 John Hopkins Coronavirus COVID-19 tracker:
 https://gisanddata.maps.arcgis.com/apps/opsdashboard/index.html#/bda7594740fd40299423467b48e9ecf6
@@ -99,7 +109,7 @@ https://www.kaggle.com/allen-institute-for-ai/CORD-19-research-challenge?fbclid=
 
 ************************************************************************************************************
 
-OpenSource Business
+# OpenSource Business
 -------------------
 Close all non-essential businesses, have reduced staff for others
 close all dine-in restaraunts
@@ -107,7 +117,7 @@ Have a senior hour at the beginning of the day for seniors 50+ store is disinfec
 Practice social distancing
 No gatherings of 25 or more people
 
-OpenSource Chemistry
+# OpenSource Chemistry
 ---------------------
 "Combine in a bowl:
 ⅔-cup rubbing alcohol (99% isopropyl alcohol)
@@ -117,7 +127,7 @@ Source: https://www.foxnews.com/health/coronavirus-panic-buying-diy-hand-sanitiz
 
 ************************************************************************************************************
 
-OpenSource Hardware
+# OpenSource Hardware
 --------------------
 SAFE MATERIALS:
 Copper3D antibacterial PLA?
@@ -133,13 +143,17 @@ PVC?
 see the file "plastics sterilization compatibility":
 http://www.industrialspec.com/images/files/plastics-sterilization-compatibility-chart-from-is-med-specialties.pdf?fbclid=IwAR3Can9EYXjL-_oMnYxT7KGrIeQodONga45pCxxuXz3qbUVUsg0O-tZICeU
 
-Tools
+# Tools
 --------------------
 Fusion 360 Mechanical CAD for part design:
 https://www.autodesk.com/campaigns/fusion-360-for-hobbyists
 
+http://Thingiverse.com
 
-Gadgets
+http://Grabcad.com
+
+
+# Gadgets
 ----------------------
 Doorbell fever detector:
 https://create.arduino.cc/projecthub/roni-bandini/coronavirus-doorbell-114b3f?ref=platform&ref_id=424_trending___&offset=3
@@ -162,7 +176,7 @@ Using drones and robots:
 https://www.forbes.com/sites/bernardmarr/2020/03/18/how-robots-and-drones-are-helping-to-fight-coronavirus/?fbclid=IwAR2EiG3tZ0xVF6VysOo3WdBnVb3Rici8-UHI7PuF3NDLWWaAG_0tdbIF2YQ#9f86e482a12e
 
 
-Medical Supplies
+# Medical Supplies
 --------------------
 Surgical masks
 
@@ -251,7 +265,7 @@ https://grabcad.com/library/respirator-free-reanimation-venturi-s-valve-1
 PEEP valve
 https://youtu.be/HEfCRcew_pk
 
-Testing
+# Testing
 -------------
 Several different independent people should test the latest version of an individual design before bringing a prototype to a medical expert to review it
 If a medical expert says it provides utility then it should be reviewed by a legal expert and an engineer
@@ -263,7 +277,7 @@ https://www.xamax.co.uk/blog/how-to-respirator-face-fit-test-guide.html
 
 http://www.frankshospitalworkshop.com/
 
-Communication
+# Communication
 -------------
 What good are open source designs when all the results and development are hidden behind logins in private groups? 
 
@@ -286,7 +300,7 @@ https://ppelink.wordpress.com/
 
 use hashtags like #COVID19 or #Coronavirus when you publish designs, use descriptive keywords so other developers can find your designs.
 
-NEEDS:
+# NEEDS:
 -------------
 3D print operators
 Scientists
@@ -306,7 +320,7 @@ https://ideea.io/3ps/covid-19
 Prusa
 
 
-Potential Designs, research directions:
+# Potential Designs, research directions:
 -------------------------
 Ultraviolet mask - supposedly a bad idea because UV lights create ozone which is bad for lungs
 
