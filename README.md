@@ -20,8 +20,16 @@ https://www.vox.com/science-and-health/2020/3/13/21176735/covid-19-coronavirus-w
 
 There are at least two known strains of it.
 Aerosol for 3 hours
+Copper for 4 hours
+Cardboard for 24 hours
+Stainless steel for 72 hours
 
 Symptoms:
+https://www.coronavirus.gov/
+
+NIH:
+https://www.nih.gov/health-information/coronavirus
+
 WHO
 
 CDC
@@ -29,6 +37,8 @@ https://www.cdc.gov/coronavirus/2019-ncov/symptoms-testing/symptoms.html
 
 Who is most at risk:
 Immune compromised people, auto-immune, HIV
+Pregnant women
+Older people
 https://www.cdc.gov/coronavirus/2019-ncov/specific-groups/high-risk-complications.html
 
 
@@ -168,6 +178,9 @@ Disinfectant wipes
 
 Shoe Coverings
 
+Hospital Beds
+https://imgur.com/t/coronavirus/reZE7AN
+
 Personal Protective Equipment (PPE)
 N95 masks offer the best protection, but they are in short supply, surgical masks can be used, but do not offer the same protection as a N95 mask
 
@@ -187,6 +200,8 @@ https://smartairfilters.com/en/blog/best-materials-make-diy-face-mask-virus/
 https://www.thingiverse.com/thing:4219678
 
 https://blogs.cdc.gov/niosh-science-blog/2009/10/14/n95/
+
+https://diymask.site/
 
 N95 Recycling:
 Supposedly you can wash them with bleach in water up to 40 times to renew them, this is untested and unverified
@@ -213,11 +228,21 @@ https://www.fastcompany.com/1661942/mit-students-invent-100-ventilator-for-disas
 
 https://oxygen.protofy.xyz/
 
+https://www.deaconess.com/SpecialPages/How-to-make-a-Face-Mask
+
+https://imgur.com/gallery/kdPQV1n
+
+Ventilator Manifold:
+https://scholarworks.boisestate.edu/lib_maker/4/
+
 Cuirass Ventilator
 
 http://www.hayekmedical.com/about-bcv
 
 https://youtu.be/pvrUQCMa3a8
+
+Ventilator repair:
+https://www.ifixit.com/Device/Ventilator
 
 Valves
 
@@ -234,6 +259,9 @@ then beyond that if a design satisfies all the above then people could potential
 
 how to test masks:
 https://www.xamax.co.uk/blog/how-to-respirator-face-fit-test-guide.html
+
+
+http://www.frankshospitalworkshop.com/
 
 Communication
 -------------
@@ -284,3 +312,5 @@ Ultraviolet mask - supposedly a bad idea because UV lights create ozone which is
 
 AC airfilter backpack
 
+Ultrasonic deactivation
+https://www.ncbi.nlm.nih.gov/pubmed/23500728
