@@ -1,0 +1,61 @@
+#celafaremoinmascherina
+
+Operational proposal for those with a 3 D printer at home.
+(We are waiting for you! Good morning.
+
+From the collaboration between the Fab City of the Municipality of Cosenza - Work Training Service and the 3 D Lab of the Da Vinci Institute - Nitti di Cosenza the idea of the use of the 3 D printer for the construction of protective masks and achievable in fast times, also able to customize the product for children, elderly, disabled, sick. The goal is to help meet the increase in requests to use protective masks to limit the contagion of Coronavirus, in addition to those already in production.
+
+This proposal comes from the effective collaboration between the Councilor of the Municipality of Cosenza, Dr. Andrea Falbo, with delegation to active strategies of work, and Prof. Bruno Gioffrè, of the Da Vinci Institute - Nitti di Cosenza and is fully among the smart city initiatives that uses smart working as a working mode, aimed at development and innovation through digital technologies, example of synergy between school, institutions , Territory. The proposal also uses the contribution of three professionals who, at a particular moment of health emergency, have made available to the city community experiences, ideas and professionalism in different areas:
+
+Dr. Dr. Ssa Adriana Chiappetta, Fab City Manager - Work Training Service of the Municipality of Cosenza
+
+Teacher. Ssa Anna Merlo of the Da Vinci Institute - Nitti di Cosenza what happens in the management of 3 D Lab to Prof. Bruno Gioffrè, who directed him in the past years
+
+Mrs. Mr. ra Filomena Celestino, intern year 2018/2019 at the Work Training Service of the Municipality of Cosenza, 3 D printer specialist, editor tab #celafareinmascherina
+
+Below the instructions:
+
+Card #celado in masking
+
+operational proposal for those with a 3 D printer at home
+
+steps needed:
+
+Files reside on the 2 main file sharing services, Dropbox and Google Drive.
+
+To download files from Dropbox:
+
+1) Click on the link
+https://www.dropbox.com/s/zgo8vsmlqdjr7x3/mashera_protettiva.zip?dl=0&fbclid=IwAR1QQv23neZU6rEz9ttpi1JoqSB3yF3d4VYLhsAv5BIjdi976sQx_YGevck
+
+2) No registration is required
+
+3) Click on the " download " icon (bottom arrow) and choose " Direct Download "
+
+4) The file " protective mask _ will be downloaded. zip ", from which you can extract 2 files (Mask and filter cover) of stl type
+
+To download files from Google Drive:
+
+1) Click on the link
+
+https://drive.google.com/.../1Gp-6OHFMSm8TBZo4R3NryilNj.../view...
+
+2) Click on the "download" icon
+
+3) The "protective mask _ protective mask" will be downloaded. zip ", from which you can extract 2 files (Mask and filter cover) of stl type
+
+If the printer you have at your disposal reads gcode files, proceed with conversion.
+
+In the mask you can insert certified circular filters or in case of emergency homemade filters as explained inside the WHO site.
+
+Remember to print using certified products for skin and mucous contact. TPU D27 ANTIBACTERIC BIOFLEX with SHORE D27
+
+#celafaremoinmascherina
+
+#iorestoacasa
+
+#andratuttobene
+
+#celafaremo
+
+Source: 3 D Line

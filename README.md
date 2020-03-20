@@ -60,6 +60,9 @@ Directory
 Keep this list to the best example for each category
 
 Tracking Data, forecasting:
+https://healthweather.us/
+
+https://www.nytimes.com/2020/03/18/health/coronavirus-fever-thermometers.html
 
 OpenSource Software:
 -----------------------
@@ -108,6 +111,9 @@ Stainless Steel?
 
 UN-SAFE MATERIALS:
 PVC?
+
+see the file "plastics sterilization compatibility":
+http://www.industrialspec.com/images/files/plastics-sterilization-compatibility-chart-from-is-med-specialties.pdf?fbclid=IwAR3Can9EYXjL-_oMnYxT7KGrIeQodONga45pCxxuXz3qbUVUsg0O-tZICeU
 
 Tools
 --------------------
@@ -175,6 +181,10 @@ https://www.instructables.com/id/The-Pandemic-Ventilator/
 
 https://www.fastcompany.com/1661942/mit-students-invent-100-ventilator-for-disaster-zones?fbclid=IwAR2Y00hFcDgn3L1udEF00m7eqgDnoA5qirNnic6W7fWetabtRWwc27ksiqM
 
+Cuirass Ventilator
+
+http://www.hayekmedical.com/about-bcv?fbclid=IwAR11wvs0VFiyS1GEXMsO--pz_XAIlI2R57oDL3Ap07lzzWWB_ZHVfJ_OV3g
+
 https://youtu.be/pvrUQCMa3a8
 
 Valves
@@ -195,6 +205,9 @@ https://www.xamax.co.uk/blog/how-to-respirator-face-fit-test-guide.html?fbclid=I
 Communication
 -------------
 What good are open source designs when all the results and development are hidden behind logins in private groups? 
+
+N95 Requests:
+https://docs.google.com/forms/d/e/1FAIpQLSfuuLpPZQwWX91U3x55wVWdNrfk-zaKPXdBsI0PITeI7BYkXA/viewform
 
 Slack channel
 https://www.helpfulengineering.org/
