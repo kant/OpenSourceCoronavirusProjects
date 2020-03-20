@@ -222,7 +222,15 @@ https://blogs.cdc.gov/niosh-science-blog/2009/10/14/n95/
 
 https://diymask.site/
 
+Coffee filter, blue painters tape mask
+https://youtu.be/qIiG56I_Xbc
+
 N95 Recycling:
+
+https://www.cdc.gov/coronavirus/2019-ncov/hcp/ppe-strategy/face-masks.html
+
+https://mp.weixin.qq.com/s/3QYVWO4kj5qwuSHnhcM9uQ?fbclid=IwAR2mEmjTaswAtNhXEI4hLsekkLxx7oObUl_Y36TqsbvFGSiIMXvg2A_nv5I
+
 Supposedly you can wash them with bleach in water up to 40 times to renew them, this is untested and unverified
 
 Response to N95 Recycling: "Cheuk Kwong Ng: Don't clean and sterilize the one-time disposable 3-layer surgical mask. Any attempt to clean and steralize (streaming, UV, alcohol / bleach / soap solution) the one-time disposable 3-layer surgical mask will destroy the fibre of 3 layers as well as wear off the electrostatic attraction in the middle layer which is one of the major filteration principle of mask in addition to the physical barrier.
@@ -250,6 +258,8 @@ https://oxygen.protofy.xyz/
 https://www.deaconess.com/SpecialPages/How-to-make-a-Face-Mask
 
 https://imgur.com/gallery/kdPQV1n
+
+https://www.mpo-mag.com/content-microsite/mpo_covid-19/2020-03-20/oxford-and-kings-developing-prototype-for-rapidly-deployable-ventilator
 
 Ventilator Manifold:
 https://scholarworks.boisestate.edu/lib_maker/4/
@@ -302,6 +312,8 @@ https://www.facebook.com/groups/opensourcecovid19medicalsupplies/
 https://ppelink.wordpress.com/
 
 https://www.canada.ca/en/services/business/maintaingrowimprovebusiness/manufacturers-needed.html
+
+https://www.gov.uk/government/news/production-and-supply-of-ventilators-and-ventilator-components
 
 https://www.coronavirusmakers.org/index.php/es/
 
