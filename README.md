@@ -18,6 +18,9 @@ Isn't COVID-19 just like the flu?
 No, it's not.
 https://www.vox.com/science-and-health/2020/3/13/21176735/covid-19-coronavirus-worse-than-flu-comparison
 
+There are at least two known strains of it.
+Aerosol for 3 hours
+
 Symptoms:
 WHO
 
@@ -35,8 +38,6 @@ https://www.cdc.gov/coronavirus/2019-ncov/specific-groups/high-risk-complication
 Why are we making potentially dangerous and untested opensource medical equipment?
 Because the rate of infection is so high, there's projections millions more will catch the virus, and the amount of cases will overwhelm the healthcare system to the point where some cases will go untreated which can lead to higher rates of mortality. There's already been a US shortage of N95 masks for the last week, the US is just now seeing outbreaks of cases and if hospital staff do not have supplies like masks to protect themselves then they too can be incapacitated by the virus, leading to higher mortality.
 
-
-
 https://www.technologyreview.com/s/615375/what-is-herd-immunity-and-can-it-stop-the-coronavirus/?fbclid=IwAR3LRLNSKCavqpa6UXkoTFhGyqImoom_YE9jLRzb_qNSUMuBc_8eRLL_XP0
 
 Inspiration:
@@ -44,9 +45,10 @@ https://www.who.int/news-room/detail/03-03-2020-shortage-of-personal-protective-
 
 https://hackaday.com/2020/03/12/ultimate-medical-hackathon-how-fast-can-we-design-and-deploy-an-open-source-ventilator/?fbclid=IwAR2rnSc4Yhfd2iLCZSQ0erHf8-PLsuuL3I0NMZvJagOX9FEcs_jMts-FzME
 
+https://www.nbcboston.com/news/coronavirus/mgh-desperately-needs-supplies-president-says/2094292/
+
 https://app.jogl.io/project/121?fbclid=IwAR2LzTAlirPDtjg1XDkTOVjQnHhLvI_BoxQMF2MtK6MTWD3bbK-AwrJoKeU
 
-https://www.projectopenair.org/
 
 Workflow
 ----------
@@ -54,6 +56,9 @@ Research/proposal -> Design -> Print/Assemble -> Test -> Review with medical exp
 
 Discussion -> CAD -> 3D printer -> Equipment Evaluator -> Medical expert -> Patient
 
+Challenges/Funding:
+-------------------
+https://twitter.com/CoVentChallenge
 
 Directory
 ------------
@@ -78,6 +83,9 @@ https://www.instructables.com/id/Coronavirus-Detector/
 
 AI/CT: researchers were able to use CT scans and AI to diagnose COVID-19 cases
 https://github.com/ieee8023/covid-chestxray-dataset
+
+Coronavirus Open Research Dataset
+https://www.kaggle.com/allen-institute-for-ai/CORD-19-research-challenge?fbclid=IwAR3yCv3gct7dF8dijcXWorMs5P3RMyOI3rQVj5JEykcY9uALWX8WdJstykU
 
 ************************************************************************************************************
 
@@ -117,6 +125,9 @@ http://www.industrialspec.com/images/files/plastics-sterilization-compatibility-
 
 Tools
 --------------------
+Fusion 360 Mechanical CAD for part design:
+https://www.autodesk.com/campaigns/fusion-360-for-hobbyists
+
 
 Gadgets
 ----------------------
@@ -143,8 +154,6 @@ https://www.forbes.com/sites/bernardmarr/2020/03/18/how-robots-and-drones-are-he
 
 Medical Supplies
 --------------------
-N95 respirators
-
 Surgical masks
 
 Protective glasses/goggles 
@@ -175,14 +184,23 @@ https://blog.arduino.cc/2020/03/17/designing-a-low-cost-open-source-ventilator-w
 
 https://smartairfilters.com/en/blog/best-materials-make-diy-face-mask-virus/
 
+https://www.thingiverse.com/thing:4219678
+
+https://blogs.cdc.gov/niosh-science-blog/2009/10/14/n95/
+
 N95 Recycling:
 Supposedly you can wash them with bleach in water up to 40 times to renew them, this is untested and unverified
 
 Response to N95 Recycling: "Cheuk Kwong Ng: Don't clean and sterilize the one-time disposable 3-layer surgical mask. Any attempt to clean and steralize (streaming, UV, alcohol / bleach / soap solution) the one-time disposable 3-layer surgical mask will destroy the fibre of 3 layers as well as wear off the electrostatic attraction in the middle layer which is one of the major filteration principle of mask in addition to the physical barrier.
 You can use a one-time 3-layer disposable surgical mask. If u can't get one, make a reusable cloth mask (http://diymask.site) with a piece of kitchen paper which can achieve N70 level which is protective enough for daily use"
 
+Positive Pressure Suit:
+https://imgur.com/gallery/UD7PEo0
+
 Surgical mask substitutes:
-https://blog.prusaprinters.org/from-design-to-mass-3d-printing-of-medical-shields-in-three-days/?fbclid=IwAR3JjeNFBb2eDnnQyCt9Wr88sfccejYkUujYxLXpEsy4YlqdmiwmIeTHgc8
+https://blog.prusaprinters.org/from-design-to-mass-3d-printing-of-medical-shields-in-three-days/
+
+https://grabcad.com/library/coronavirus-flu-reusable-mask-1
 
 https://youtu.be/pP7z3iw76GA
 
@@ -191,19 +209,22 @@ https://gitlab.com/TrevorSmale/OSV-OpenLung
 
 https://www.instructables.com/id/The-Pandemic-Ventilator/
 
-https://www.fastcompany.com/1661942/mit-students-invent-100-ventilator-for-disaster-zones?fbclid=IwAR2Y00hFcDgn3L1udEF00m7eqgDnoA5qirNnic6W7fWetabtRWwc27ksiqM
+https://www.fastcompany.com/1661942/mit-students-invent-100-ventilator-for-disaster-zones
+
+https://oxygen.protofy.xyz/
 
 Cuirass Ventilator
 
-http://www.hayekmedical.com/about-bcv?fbclid=IwAR11wvs0VFiyS1GEXMsO--pz_XAIlI2R57oDL3Ap07lzzWWB_ZHVfJ_OV3g
+http://www.hayekmedical.com/about-bcv
 
 https://youtu.be/pvrUQCMa3a8
 
 Valves
 
-https://grabcad.com/library/respirator-free-reanimation-venturi-s-valve-1?fbclid=IwAR2h0uKEybU8_LlZ94WJ8x5zA0eg-nmDrMF1BN-I4FtzsEpfqOmk593XZOk
+https://grabcad.com/library/respirator-free-reanimation-venturi-s-valve-1
 
-https://www.youtube.com/watch?v=HEfCRcew_pk&feature=youtu.be&fbclid=IwAR0Y8gQBBeIeTXUr2PcD6JAqdUCU69S0xeYH_uizPoYGsEsgluEeQKBdovw
+PEEP valve
+https://youtu.be/HEfCRcew_pk
 
 Testing
 -------------
@@ -212,14 +233,14 @@ If a medical expert says it provides utility then it should be reviewed by a leg
 then beyond that if a design satisfies all the above then people could potentially mass produce the solution using 3D printers or whatever else
 
 how to test masks:
-https://www.xamax.co.uk/blog/how-to-respirator-face-fit-test-guide.html?fbclid=IwAR3XCpc9VlcBi9ZaOfs8W6ZdgR1EINrU9-fOVgtEhv1IBoRLBC3AP4mqoOI
+https://www.xamax.co.uk/blog/how-to-respirator-face-fit-test-guide.html
 
 Communication
 -------------
 What good are open source designs when all the results and development are hidden behind logins in private groups? 
 
 Google docs list of groups:
-https://docs.google.com/spreadsheets/d/1PmVIADK94Hmug3wRQXi-K94UrXYsZtSFXpRGwCENoaM/edit?fbclid=IwAR0cAZgM4mYpp7jijLJ-ayIf2o3HSjc7-z7_kpo4R90JpGTrsS18ZIqYGjY#gid=0
+https://docs.google.com/spreadsheets/d/1PmVIADK94Hmug3wRQXi-K94UrXYsZtSFXpRGwCENoaM/edit
 
 N95 Requests:
 https://docs.google.com/forms/d/e/1FAIpQLSfuuLpPZQwWX91U3x55wVWdNrfk-zaKPXdBsI0PITeI7BYkXA/viewform
