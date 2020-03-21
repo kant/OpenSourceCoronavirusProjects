@@ -225,6 +225,10 @@ https://blogs.cdc.gov/niosh-science-blog/2009/10/14/n95/
 
 https://diymask.site/
 
+https://grabcad.com/library/disposable-mask-machine-1
+
+https://grabcad.com/library/fully-automatic-n95-mask-machine-2
+
 Coffee filter, blue painters tape mask
 https://youtu.be/qIiG56I_Xbc
 
@@ -268,6 +272,8 @@ https://www.deaconess.com/SpecialPages/How-to-make-a-Face-Mask
 https://imgur.com/gallery/kdPQV1n
 
 https://www.mpo-mag.com/content-microsite/mpo_covid-19/2020-03-20/oxford-and-kings-developing-prototype-for-rapidly-deployable-ventilator
+
+https://www.gov.uk/government/publications/specification-for-ventilators-to-be-used-in-uk-hospitals-during-the-coronavirus-covid-19-outbreak
 
 AmbuBag BVM V2
 https://grabcad.com/library/ambu-bvm-2-1
@@ -317,6 +323,8 @@ https://docs.google.com/forms/d/e/1FAIpQLSfuuLpPZQwWX91U3x55wVWdNrfk-zaKPXdBsI0P
 Slack channel
 https://www.helpfulengineering.org/
 
+https://www.mantis3dprinter.com/help
+
 Open Air
 https://projectopenair.nl/het-project/
 
@@ -352,6 +360,8 @@ Hospital Contacts/Doctors
 Manufacturing:
 -------------------
 https://ideea.io/3ps/covid-19
+
+http://www.shapeways.com/covid19/
 
 3dhubs
 
