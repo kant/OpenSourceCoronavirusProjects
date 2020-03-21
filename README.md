@@ -177,6 +177,9 @@ https://wikifactory.com/@thanhmeye/ethanol-still
 Using drones and robots:
 https://www.forbes.com/sites/bernardmarr/2020/03/18/how-robots-and-drones-are-helping-to-fight-coronavirus/?fbclid=IwAR2EiG3tZ0xVF6VysOo3WdBnVb3Rici8-UHI7PuF3NDLWWaAG_0tdbIF2YQ#9f86e482a12e
 
+Oxygen Analyzer
+https://github.com/jboneng/OpenSourceOxygenAnalyzer
+
 
 Door grabber
 https://www.thingiverse.com/thing:4192643
@@ -354,3 +357,6 @@ AC airfilter backpack
 
 Ultrasonic deactivation
 https://www.ncbi.nlm.nih.gov/pubmed/23500728
+
+Salt Filter Mask
+https://robots-everywhere.com/re_wiki/pub/web/Cookbook.SaltMask.html
