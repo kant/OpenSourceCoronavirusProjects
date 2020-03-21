@@ -269,6 +269,12 @@ https://imgur.com/gallery/kdPQV1n
 
 https://www.mpo-mag.com/content-microsite/mpo_covid-19/2020-03-20/oxford-and-kings-developing-prototype-for-rapidly-deployable-ventilator
 
+AmbuBag BVM V2
+https://grabcad.com/library/ambu-bvm-2-1
+
+AmbuBag BVM V3
+https://grabcad.com/library/ambu-bvm-3-1
+
 Ventilator Manifold:
 https://scholarworks.boisestate.edu/lib_maker/4/
 
