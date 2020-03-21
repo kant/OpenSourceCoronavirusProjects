@@ -242,7 +242,12 @@ You can use a one-time 3-layer disposable surgical mask. If u can't get one, mak
 Positive Pressure Suit:
 https://imgur.com/gallery/UD7PEo0
 
-Surgical mask substitutes:
+Surgical face  mask substitutes:
+
+https://making.engr.wisc.edu/shield/
+
+https://www.delve.com/insights/face-shield-designs-to-fill-the-gap
+
 https://blog.prusaprinters.org/from-design-to-mass-3d-printing-of-medical-shields-in-three-days/
 
 https://grabcad.com/library/coronavirus-flu-reusable-mask-1
