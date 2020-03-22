@@ -25,6 +25,8 @@ Aerosol for 3 hours
 
 Copper for 4 hours
 
+https://www.vice.com/en_us/article/xgqkyw/copper-destroys-viruses-and-bacteria-why-isnt-it-everywhere
+
 Cardboard for 24 hours
 
 Stainless steel for 72 hours
@@ -70,6 +72,8 @@ https://app.jogl.io/project/121?fbclid=IwAR2LzTAlirPDtjg1XDkTOVjQnHhLvI_BoxQMF2M
 https://docs.google.com/document/d/16ueR28p-oZb_uPKXFzuxK-X62rgYXlGETNOLitoSf6s/edit
 
 https://www.livescience.com/open-source-medical-supplies-coronavirus.html
+
+https://www.freethink.com/articles/coronavirus-supplies
 
 # Workflow
 
@@ -169,17 +173,16 @@ https://www.youtube.com/watch?v=BoJ3QUGUA6w
 
 
 Hand wash time counter:
-https://github.com/dhennessy/WashTimer?fbclid=IwAR0Z4ND8qRzGTydr3_-ryBOaeOMHKE8iY_rIu_-jVy26HtyZTQB06CxrPRw
+https://github.com/dhennessy/WashTimer
 
 Sugar cane to hand sanitizer:
 https://wikifactory.com/@thanhmeye/ethanol-still
 
 Using drones and robots:
-https://www.forbes.com/sites/bernardmarr/2020/03/18/how-robots-and-drones-are-helping-to-fight-coronavirus/?fbclid=IwAR2EiG3tZ0xVF6VysOo3WdBnVb3Rici8-UHI7PuF3NDLWWaAG_0tdbIF2YQ#9f86e482a12e
+https://www.forbes.com/sites/bernardmarr/2020/03/18/how-robots-and-drones-are-helping-to-fight-coronavirus/
 
 Oxygen Analyzer
 https://github.com/jboneng/OpenSourceOxygenAnalyzer
-
 
 Door grabber
 https://www.thingiverse.com/thing:4192643
@@ -209,7 +212,7 @@ N95 masks offer the best protection, but they are in short supply, surgical mask
 N95 substitutes:
 https://www.thingiverse.com/thing:4225667/files
 
-https://copper3d.com/hackthepandemic/?fbclid=IwAR1gnqxasbEzZVa5GC-0YnysDlaGbxUEZxlByvkS_3IKbWk502HphmtOS4E
+https://copper3d.com/hackthepandemic/
 
 https://www.thingiverse.com/thing:3454725
 
@@ -231,6 +234,9 @@ https://grabcad.com/library/fully-automatic-n95-mask-machine-2
 
 Coffee filter, blue painters tape mask
 https://youtu.be/qIiG56I_Xbc
+
+Which masks actual protect against coronavirus?
+http://emag.medicalexpo.com/which-masks-actually-protect-against-coronavirus/
 
 N95 Recycling:
 
@@ -345,6 +351,9 @@ https://enable.hp.com/us-en-3dprint-COVID-19-containment-applications
 Formlabs
 https://docs.google.com/forms/d/e/1FAIpQLSe015Ylohgm7hE5lRsekdK01_OqElYeSAzqyHx7HbOmrJ_MjQ/viewform
 
+
+http://thenocturnists.com/tell-your-story
+
 use hashtags like #COVID19 or #Coronavirus when you publish designs, use descriptive keywords so other developers can find your designs.
 
 # NEEDS:
@@ -373,6 +382,8 @@ https://markforged.com/materials/copper/
 
 # Potential Designs, research directions:
 Ultraviolet mask - supposedly a bad idea because UV lights create ozone which is bad for lungs
+
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4699414/
 
 AC airfilter backpack
 
