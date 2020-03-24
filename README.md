@@ -51,9 +51,7 @@ Pregnant women
 Older people
 https://www.cdc.gov/coronavirus/2019-ncov/specific-groups/high-risk-complications.html
 
-
 "Avoid close contact with anyone showing symptoms of respiratory illness such as coughing and sneezing."
-
 
 Why are we making potentially dangerous and untested opensource medical equipment?
 Because the rate of infection is so high, there's projections millions more will catch the virus, and the amount of cases will overwhelm the healthcare system to the point where some cases will go untreated which can lead to higher rates of mortality. There's already been a US shortage of N95 masks for the last week, the US is just now seeing outbreaks of cases and if hospital staff do not have supplies like masks to protect themselves then they too can be incapacitated by the virus, leading to higher mortality.
@@ -63,7 +61,9 @@ https://www.technologyreview.com/s/615375/what-is-herd-immunity-and-can-it-stop-
 # Inspiration:
 https://www.who.int/news-room/detail/03-03-2020-shortage-of-personal-protective-equipment-endangering-health-workers-worldwide
 
-https://hackaday.com/2020/03/12/ultimate-medical-hackathon-how-fast-can-we-design-and-deploy-an-open-source-ventilator/?fbclid=IwAR2rnSc4Yhfd2iLCZSQ0erHf8-PLsuuL3I0NMZvJagOX9FEcs_jMts-FzME
+https://hackaday.com/2020/03/12/ultimate-medical-hackathon-how-fast-can-we-design-and-deploy-an-open-source-ventilator/
+
+https://www.hackster.io/news/open-source-ventilator-openlung-projects-aim-to-address-the-covid-19-ventilator-shortfall-c7a5ee2f8e58
 
 https://www.nbcboston.com/news/coronavirus/mgh-desperately-needs-supplies-president-says/2094292/
 
@@ -105,6 +105,8 @@ https://www.instructables.com/id/Coronavirus-Detector/
 
 AI/CT: researchers were able to use CT scans and AI to diagnose COVID-19 cases
 https://github.com/ieee8023/covid-chestxray-dataset
+
+https://interestingengineering.com/ct-scans-and-x-rays-display-the-damage-to-the-lungs-of-covid-19-patients
 
 Coronavirus Open Research Dataset
 https://www.kaggle.com/allen-institute-for-ai/CORD-19-research-challenge?fbclid=IwAR3yCv3gct7dF8dijcXWorMs5P3RMyOI3rQVj5JEykcY9uALWX8WdJstykU
@@ -248,9 +250,12 @@ N95 Recycling:
 
 https://www.cdc.gov/coronavirus/2019-ncov/hcp/ppe-strategy/face-masks.html
 
-https://mp.weixin.qq.com/s/3QYVWO4kj5qwuSHnhcM9uQ?fbclid=IwAR2mEmjTaswAtNhXEI4hLsekkLxx7oObUl_Y36TqsbvFGSiIMXvg2A_nv5I
+https://mp.weixin.qq.com/s/3QYVWO4kj5qwuSHnhcM9uQ
 
 Supposedly you can wash them with bleach in water up to 40 times to renew them, this is untested and unverified
+Also potentially use an oven to autoclave infected masks, or hydrogen peroxide, or microwave oven, all untested and unverified
+
+https://www.mbs.news/a/2020/03/hydrogen-peroxide-gives-mouth-mask-second-round.html
 
 Response to N95 Recycling: "Cheuk Kwong Ng: Don't clean and sterilize the one-time disposable 3-layer surgical mask. Any attempt to clean and steralize (streaming, UV, alcohol / bleach / soap solution) the one-time disposable 3-layer surgical mask will destroy the fibre of 3 layers as well as wear off the electrostatic attraction in the middle layer which is one of the major filteration principle of mask in addition to the physical barrier.
 You can use a one-time 3-layer disposable surgical mask. If u can't get one, make a reusable cloth mask (http://diymask.site) with a piece of kitchen paper which can achieve N70 level which is protective enough for daily use"
@@ -276,6 +281,8 @@ State of open source ventilators as of 3/21/2020:
 https://medium.com/@RobertLeeRead/the-state-of-open-source-ventilator-projects-as-of-march-21st-1f36bfb608b4
 
 https://gitlab.com/TrevorSmale/OSV-OpenLung
+
+https://www.ventilaid.org/
 
 Open Source Ambubag, MIT E-Vent:
 https://e-vent.mit.edu/
@@ -313,6 +320,10 @@ https://youtu.be/pvrUQCMa3a8
 
 Ventilator repair:
 https://www.ifixit.com/Device/Ventilator
+
+Ventilator Splitters
+
+http://ventsplitter.org/
 
 Valves
 
