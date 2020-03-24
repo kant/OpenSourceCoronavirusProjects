@@ -187,7 +187,13 @@ https://github.com/jboneng/OpenSourceOxygenAnalyzer
 Door grabber
 https://www.thingiverse.com/thing:4192643
 
+Bidet as toilet paper alternative
+https://www.youmagine.com/designs/3d-bidet-by-laproto-mx
+
 # Medical Supplies
+
+Test Supplies
+https://foundry.bio/coronavirus-covid-19/
 
 Surgical masks
 
@@ -265,7 +271,14 @@ https://grabcad.com/library/coronavirus-flu-reusable-mask-1
 https://youtu.be/pP7z3iw76GA
 
 Respirators/Lifesupport:
+
+State of open source ventilators as of 3/21/2020:
+https://medium.com/@RobertLeeRead/the-state-of-open-source-ventilator-projects-as-of-march-21st-1f36bfb608b4
+
 https://gitlab.com/TrevorSmale/OSV-OpenLung
+
+Open Source Ambubag, MIT E-Vent:
+https://e-vent.mit.edu/
 
 https://www.instructables.com/id/The-Pandemic-Ventilator/
 
@@ -280,6 +293,8 @@ https://imgur.com/gallery/kdPQV1n
 https://www.mpo-mag.com/content-microsite/mpo_covid-19/2020-03-20/oxford-and-kings-developing-prototype-for-rapidly-deployable-ventilator
 
 https://www.gov.uk/government/publications/specification-for-ventilators-to-be-used-in-uk-hospitals-during-the-coronavirus-covid-19-outbreak
+
+https://rescueventilation.com/
 
 AmbuBag BVM V2
 https://grabcad.com/library/ambu-bvm-2-1
@@ -306,7 +321,7 @@ https://grabcad.com/library/respirator-free-reanimation-venturi-s-valve-1
 PEEP valve
 https://youtu.be/HEfCRcew_pk
 
-# Testing
+# Prototype Testing
 Several different independent people should test the latest version of an individual design before bringing a prototype to a medical expert to review it
 If a medical expert says it provides utility then it should be reviewed by a legal expert and an engineer
 then beyond that if a design satisfies all the above then people could potentially mass produce the solution using 3D printers or whatever else
@@ -351,6 +366,9 @@ https://enable.hp.com/us-en-3dprint-COVID-19-containment-applications
 Formlabs
 https://docs.google.com/forms/d/e/1FAIpQLSe015Ylohgm7hE5lRsekdK01_OqElYeSAzqyHx7HbOmrJ_MjQ/viewform
 
+https://findthemasks.com/
+
+https://getusppe.org/
 
 http://thenocturnists.com/tell-your-story
 
