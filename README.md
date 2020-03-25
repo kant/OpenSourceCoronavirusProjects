@@ -133,14 +133,30 @@ Source: https://www.foxnews.com/health/coronavirus-panic-buying-diy-hand-sanitiz
 
 SAFE MATERIALS:
 Copper3D antibacterial PLA?
+TPU?
+Nylon?
+PETG?
 PLA?
 Nylon?
 ABS?
 Resin?
-Stainless Steel?
+
 
 UN-SAFE MATERIALS:
 PVC?
+Stainless Steel?
+
+Thom Wiley:
+"Printing in PLA has its drawbacks. It can be swabbed only once before microbes find home in the pitted areas. PLA should be considered a one-and-done filament. 
+
+ABS has higher glass transition (100°) but only certain brands/types of ABS should be considered. Look for ABS with USP Class VI or ISO 10993-1 certifications only. 
+
+Polycarbonate (PC) is probably the best filament with the highest glass transition, 150°, and can be put in an autoclave. But PC is one of the most difficult filaments to work with. You need something like a Volcano/V6 (not knockoff) with a copper heating block, and a thermistor like the PT100. Also the bed needs to be cranked high on the heat and an enclosure is highly recommended, to keep the heat and the smell in.
+
+Please take this consideration, especially with patients that may have other conditions which would make it worse if an outside infection took hold, like staph infection."
+
+Samuel King "PETG is the best, these are not recommended for reuse. Theoretically they could be sterilized by isolation, putting them in a bag and leaving them for days. The ones that we are producing I am advising medical professionals to use at their own discretion and that we recommend only one use."
+
 
 see the file "plastics sterilization compatibility":
 http://www.industrialspec.com/images/files/plastics-sterilization-compatibility-chart-from-is-med-specialties.pdf?fbclid=IwAR3Can9EYXjL-_oMnYxT7KGrIeQodONga45pCxxuXz3qbUVUsg0O-tZICeU
@@ -173,6 +189,8 @@ https://www.youtube.com/watch?v=qulcfxe_04Q
 
 https://www.youtube.com/watch?v=BoJ3QUGUA6w
 
+Thermometer:
+https://os.mbed.com/components/MAX30205-Human-Body-Temperature-Sensor/
 
 Hand wash time counter:
 https://github.com/dhennessy/WashTimer
@@ -191,6 +209,8 @@ https://www.thingiverse.com/thing:4192643
 
 Bidet as toilet paper alternative
 https://www.youmagine.com/designs/3d-bidet-by-laproto-mx
+
+
 
 # Medical Supplies
 
@@ -273,6 +293,8 @@ https://blog.prusaprinters.org/from-design-to-mass-3d-printing-of-medical-shield
 
 https://grabcad.com/library/coronavirus-flu-reusable-mask-1
 
+https://gitlab.com/open-source-ventilator/other-projects/emergency-face-shield
+
 https://youtu.be/pP7z3iw76GA
 
 Respirators/Lifesupport:
@@ -286,6 +308,9 @@ https://www.ventilaid.org/
 
 Open Source Ambubag, MIT E-Vent:
 https://e-vent.mit.edu/
+
+Low-Cost Open-Source Ventilator-ish Device or PAPR
+https://github.com/jcl5m1/ventilator
 
 https://www.instructables.com/id/The-Pandemic-Ventilator/
 
@@ -302,6 +327,9 @@ https://www.mpo-mag.com/content-microsite/mpo_covid-19/2020-03-20/oxford-and-kin
 https://www.gov.uk/government/publications/specification-for-ventilators-to-be-used-in-uk-hospitals-during-the-coronavirus-covid-19-outbreak
 
 https://rescueventilation.com/
+
+Rice OEDK ApolloBVM:
+https://docs.google.com/document/d/1-DRXnVkJOlDCmvTzh-DgWDxeLSrZTiBYyH0ypzv8tNA/edit?usp=sharing
 
 AmbuBag BVM V2
 https://grabcad.com/library/ambu-bvm-2-1
@@ -331,6 +359,8 @@ https://grabcad.com/library/respirator-free-reanimation-venturi-s-valve-1
 
 PEEP valve
 https://youtu.be/HEfCRcew_pk
+
+CPAP is not recommended for use with COVID patients as it can possibly aerosolize the virus
 
 # Prototype Testing
 Several different independent people should test the latest version of an individual design before bringing a prototype to a medical expert to review it
