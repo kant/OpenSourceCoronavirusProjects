@@ -217,6 +217,9 @@ https://www.youmagine.com/designs/3d-bidet-by-laproto-mx
 Test Supplies
 https://foundry.bio/coronavirus-covid-19/
 
+COVID-19 breathalyzer test:
+https://www.yankodesign.com/2020/03/25/could-a-breathalyzer-detect-covid-19-northumbria-university-is-working-on-one-that-might/
+
 Surgical masks
 
 Protective glasses/goggles 
@@ -224,8 +227,6 @@ Protective glasses/goggles
 Nitrile gloves
 
 Head covers
-
-Face shields
 
 Disinfectant wipes
 
@@ -285,6 +286,13 @@ https://imgur.com/gallery/UD7PEo0
 
 Surgical face  mask substitutes:
 
+NIH approved 3D face shield:
+https://3dprint.nih.gov/discover/3dpx-013238?fbclid=IwAR2k-SqnxyWgYUQRA5CXfZnXC8SbgP2ZHfotuzU87AUx4GpWpViI7XUmy38
+
+Un-approved:
+
+https://www.opshieldsup.org/
+
 https://making.engr.wisc.edu/shield/
 
 https://www.delve.com/insights/face-shield-designs-to-fill-the-gap
@@ -295,13 +303,21 @@ https://grabcad.com/library/coronavirus-flu-reusable-mask-1
 
 https://gitlab.com/open-source-ventilator/other-projects/emergency-face-shield
 
+https://github.com/seemecnc/Open-Source-Medical
+
 https://youtu.be/pP7z3iw76GA
 
 Respirators/Lifesupport:
+Comparison of open source ventilators:
+https://medium.com/@RobertLeeRead/analysis-of-open-source-covid-19-pandemic-ventilator-projects-27acf9075f7e
 
 State of open source ventilators as of 3/21/2020:
 https://medium.com/@RobertLeeRead/the-state-of-open-source-ventilator-projects-as-of-march-21st-1f36bfb608b4
 
+UF Ventilator
+https://simulation.health.ufl.edu/technology-development/open-source-ventilator-project/
+
+OSV Open Lung
 https://gitlab.com/TrevorSmale/OSV-OpenLung
 
 https://www.ventilaid.org/
