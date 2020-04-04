@@ -31,7 +31,7 @@ Cardboard for 24 hours
 
 Stainless steel for 72 hours
 
-./plasticssterilization-compatibility-chart-from-is-med-specialties.pdf
+http://www.industrialspec.com/images/files/plastics-sterilization-compatibility-chart-from-is-med-specialties.pdf
 
 
 # Symptoms:
@@ -46,15 +46,15 @@ CDC
 https://www.cdc.gov/coronavirus/2019-ncov/symptoms-testing/symptoms.html
 
 Who is most at risk:
-Immune compromised people, auto-immune, HIV
-Pregnant women
-Older people
+- Immune compromised people, auto-immune, HIV
+- Pregnant women
+- Older people
 https://www.cdc.gov/coronavirus/2019-ncov/specific-groups/high-risk-complications.html
 
 "Avoid close contact with anyone showing symptoms of respiratory illness such as coughing and sneezing."
 
 Why are we making potentially dangerous and untested opensource medical equipment?
-Because the rate of infection is so high, there's projections millions more will catch the virus, and the amount of cases will overwhelm the healthcare system to the point where some cases will go untreated which can lead to higher rates of mortality. There's already been a US shortage of N95 masks for the last week, the US is just now seeing outbreaks of cases and if hospital staff do not have supplies like masks to protect themselves then they too can be incapacitated by the virus, leading to higher mortality.
+- Because the rate of infection is so high, there's projections millions more will catch the virus, and the amount of cases will overwhelm the healthcare system to the point where some cases will go untreated which can lead to higher rates of mortality. There's already been a US shortage of N95 masks for the last week, the US is just now seeing outbreaks of cases and if hospital staff do not have supplies like masks to protect themselves then they too can be incapacitated by the virus, leading to higher mortality.
 
 https://www.technologyreview.com/s/615375/what-is-herd-immunity-and-can-it-stop-the-coronavirus/?fbclid=IwAR3LRLNSKCavqpa6UXkoTFhGyqImoom_YE9jLRzb_qNSUMuBc_8eRLL_XP0
 
@@ -93,7 +93,7 @@ https://healthweather.us/
 https://www.nytimes.com/2020/03/18/health/coronavirus-fever-thermometers.html
 
 # OpenSource Software:
-John Hopkins Coronavirus COVID-19 tracker:
+Johns Hopkins Coronavirus COVID-19 tracker:
 https://gisanddata.maps.arcgis.com/apps/opsdashboard/index.html#/bda7594740fd40299423467b48e9ecf6
 
 
@@ -114,22 +114,22 @@ https://www.kaggle.com/allen-institute-for-ai/CORD-19-research-challenge?fbclid=
 ************************************************************************************************************
 
 # OpenSource Business
-Close all non-essential businesses, have reduced staff for others
-close all dine-in restaraunts
-Have a senior hour at the beginning of the day for seniors 50+ store is disinfected in the morning, seniors are most vulnerable
-Practice social distancing
-No gatherings of 25 or more people
+- Close all non-essential businesses, have reduced staff for others
+- Close all dine-in restaurants
+- Have a senior hour at the beginning of the day for seniors 50+ store is disinfected in the morning, seniors are most vulnerable
+- Practice social distancing
+- No gatherings of 25 or more people
 
-# OpenSource Chemistry
+# Open Source Chemistry
 "Combine in a bowl:
-⅔-cup rubbing alcohol (99% isopropyl alcohol)
-⅓-cup aloe vera gel.
-Stir. Decant into a clean soap or pump bottle."
+- ⅔-cup rubbing alcohol (99% isopropyl alcohol)
+- ⅓-cup aloe vera gel.
+- Stir. Decant into a clean soap or pump bottle."
 Source: https://www.foxnews.com/health/coronavirus-panic-buying-diy-hand-sanitizer-avoid-mixing-ingredients
 
 ************************************************************************************************************
 
-# OpenSource Hardware
+# Open Source Hardware
 
 SAFE MATERIALS:
 Copper3D antibacterial PLA?
@@ -278,13 +278,13 @@ Also potentially use an oven to autoclave infected masks, or hydrogen peroxide, 
 
 https://www.mbs.news/a/2020/03/hydrogen-peroxide-gives-mouth-mask-second-round.html
 
-Response to N95 Recycling: "Cheuk Kwong Ng: Don't clean and sterilize the one-time disposable 3-layer surgical mask. Any attempt to clean and steralize (streaming, UV, alcohol / bleach / soap solution) the one-time disposable 3-layer surgical mask will destroy the fibre of 3 layers as well as wear off the electrostatic attraction in the middle layer which is one of the major filteration principle of mask in addition to the physical barrier.
-You can use a one-time 3-layer disposable surgical mask. If u can't get one, make a reusable cloth mask (http://diymask.site) with a piece of kitchen paper which can achieve N70 level which is protective enough for daily use"
+Response to N95 Recycling: "Cheuk Kwong Ng: Don't clean and sterilize the one-time disposable 3-layer surgical mask. Any attempt to clean and sterilize (streaming, UV, alcohol / bleach / soap solution) the one-time disposable 3-layer surgical mask will destroy the fibre of 3 layers as well as wear off the electrostatic attraction in the middle layer which is one of the major filteration principle of mask in addition to the physical barrier.
+You can use a one-time 3-layer disposable surgical mask. If you can't get one, make a reusable cloth mask (http://diymask.site) with a piece of kitchen paper which can achieve N70 level which is protective enough for daily use"
 
 Positive Pressure Suit:
 https://imgur.com/gallery/UD7PEo0
 
-Surgical face  mask substitutes:
+Surgical face mask substitutes:
 
 NIH approved 3D face shield:
 https://3dprint.nih.gov/discover/3dpx-013238?fbclid=IwAR2k-SqnxyWgYUQRA5CXfZnXC8SbgP2ZHfotuzU87AUx4GpWpViI7XUmy38
